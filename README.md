@@ -6,4 +6,4 @@ As a student at UT Austin, in this project, I wanted to explore everything I've 
 
 Overall This analysis explores various aspects of Austin, TX through STL decomposition, Time Series analysis, clustering of high crime zones, mapping incidents using Folium, using an ARIMA model to create an accurate weather forecast, merging biking and weather data in Austin to explore various trends/patterns, and lastly utilizing various machine learning models and ensembling techniques to predict the sales price of houses in Austin.
 
-Github doesn't properly load my Jupyter notebook due to some of the libraries I worked with, so to view everything I did, please use the following link instead: https://nbviewer.org/github/AdishSundar/Exploring-AustinTX-Project/blob/main/Exploring%20Austin%2C%20Texas%20-%20A%20Data%20Driven%20Perspective.ipynb
+Github doesn't properly load my Jupyter notebook due to some of the libraries I worked with, so to view my entire analysis, please use the following link: https://nbviewer.org/github/AdishSundar/Exploring-AustinTX-Project/blob/main/Exploring%20Austin%2C%20Texas%20-%20A%20Data%20Driven%20Perspective.ipynb
